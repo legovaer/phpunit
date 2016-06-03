@@ -74,7 +74,9 @@
         }
     },
     "repositories": [
-       "type": "vcs",
-       "url": "https://github.com/legovaer/php-code-coverage"
+       {
+           "type": "vcs",
+           "url": "https://github.com/legovaer/php-code-coverage"
+       }
     ]
 }
